@@ -1,4 +1,5 @@
 # 🎥 **Unity Animation Project** 🌟
+![Project Screenshot](animation.png) 
 
 ## 🚀 Project Description
 
